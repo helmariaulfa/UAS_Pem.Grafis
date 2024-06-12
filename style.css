@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    height: 100vh;
+    background-color: #f0f0f0; 
+}
+
+h1, h2 {
+    text-align: center;
+    color: #0095DD; 
+}
+
+h1 {
+    font-size: 36px; 
+}
+
+h2 {
+    font-size: 20px;
+}
+
+#myCanvas {
+    border: 1px solid black;
+    margin: auto;
+}
